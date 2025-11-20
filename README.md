@@ -37,8 +37,9 @@ Background com gradiente suave
 
 Interface inspirada em páginas “link-in-bio”
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
+![Preview da 📂 Estrutura do Projeto](assets/estrutura-projeto.png)
 /
 ├── assets/
 │   ├── avatar.png
