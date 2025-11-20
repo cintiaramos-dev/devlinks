@@ -62,7 +62,7 @@ Salve
 
 📄 Licença
 
-Projeto sob licença MIT — você pode usar e modificar como quiser.
+Projeto sob licença MIT 
 
 👩‍💻 Autor
 
