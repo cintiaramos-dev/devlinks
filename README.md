@@ -40,15 +40,6 @@ Interface inspirada em páginas “link-in-bio”
 ## 📂 Estrutura do Projeto
 
 ![Preview da 📂 Estrutura do Projeto](assets/estrutura-projeto.png)
-/
-├── assets/
-│   ├── avatar.png
-│   ├── icons/
-│   └── ... (imagens e recursos visuais)
-│
-├── index.html
-├── style.css
-└── script.js
 
 🚀 Como Executar
 
